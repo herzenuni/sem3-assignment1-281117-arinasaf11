@@ -3,7 +3,7 @@
 def function2(с):
   str1=str(с)
   sum=0
-  for s in str:
+  for s in str1:
       ch=int(s)
       sum+=ch**2
   return sum 
